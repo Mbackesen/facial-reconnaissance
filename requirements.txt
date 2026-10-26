@@ -1,0 +1,9 @@
+streamlit
+tensorflow-cpu
+keras-facenet
+opencv-python-headless<5
+scikit-learn
+numpy
+pillow
+# Optionnel : active l'option MTCNN dans la barre latérale
+# mtcnn
